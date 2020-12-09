@@ -19,7 +19,6 @@ plt.xlabel('bond length',fontsize=22)
 plt.ylabel('Total Energy',fontsize=22)
 ax.tick_params(labelsize=16, length=6, width=2)
 plt.legend(fontsize=20)
-plt.show()
 plt.savefig("Total Energy_and_bond length.png")
 plt.show()
 
